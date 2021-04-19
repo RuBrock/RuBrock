@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 💻: Estudos e Interesses
 - Java / Spring Boot
 - ReactJS / React Native
+- NodeJS
 
 
 📚 Curiosidades
