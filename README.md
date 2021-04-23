@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻: Estudos e Interesses
+💻 Estudos e Interesses
 - Java / Spring Boot
 - ReactJS / React Native
 - NodeJS
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 📚 Curiosidades
 
 - Formado em Sistemas de Informação pela Universidade Anhembi Morumbi;
-- Atualmente estou participando do bootcamp FullStack da [@DevSuperior](https://devsuperior.com.br);
 - Curto muito jogar, aprendo como **trabalhar em equipe**, **ter paciência** e **ser analítico** através deles, Add lá [![Steam Badge](https://img.shields.io/badge/steam-profile-blue)](https://steamcommunity.com/profiles/76561198313377706/)
 
 
