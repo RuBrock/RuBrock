@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ReactJS
 - NextJS
 - NodeJS
-- 
 
 📚 Curiosidades
 
