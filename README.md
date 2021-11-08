@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 💻 Estudos e Interesses
 - ReactJS
+- NextJS
 - NodeJS
-- Java / Spring Boot
-
+- 
 
 📚 Curiosidades
 
